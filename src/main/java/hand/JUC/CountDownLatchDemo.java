@@ -1,4 +1,4 @@
-package hand.AQS;
+package hand.JUC;
 
 import java.util.ArrayList;
 import java.util.Arrays;

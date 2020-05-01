@@ -1,7 +1,5 @@
-package hand.AQS;
+package hand.JUC;
 
-
-import java.util.concurrent.locks.ReentrantLock;
 
 public class Demo2 {
     //可重入  等同于 ReentrantLock
